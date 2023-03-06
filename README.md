@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img src="https://github.com/singhprince03/images/icons8-css3-48.png" alt="princesingh" width="40px" />
+<img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-css3-48.png" alt="princesingh" width="40px" />
   <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-css3-48.png" alt="princesingh" width="40px" />
   <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-javascript-48.png" alt="princesingh" width="40px" />
   <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-mongodb-48.png" alt="princesingh" width="40px" />
