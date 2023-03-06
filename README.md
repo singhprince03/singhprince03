@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhprince03&label=Profile%20views&color=0e75b6&style=flat" alt="singhprince03" /> </p>
 
-<!-- ![test](https://user-images.githubusercontent.com/33107551/141144544-2e45dae3-4ed1-4c61-a861-7ef3af43238a.png) -->
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
 <h2 align="center">
 I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
