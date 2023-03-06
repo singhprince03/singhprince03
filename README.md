@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Untitled design](https://user-images.githubusercontent.com/126652325/223206871-5640ceef-4981-42ec-85fd-ec5b77507f9c.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhprince03&label=Profile%20views&color=0e75b6&style=flat" alt="singhprince03" /> </p>
 
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
