@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 
 <!-- ![test](https://user-images.githubusercontent.com/33107551/141144544-2e45dae3-4ed1-4c61-a861-7ef3af43238a.png) -->
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-
-
+<h2 align="center">
+I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhprince03" alt="singhprince03" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhprince03&" alt="singhprince03" /></p>
-
-
-
-
 
 - 🔭 I’m currently working on **Projects...**
 
@@ -39,14 +35,12 @@ Here are some ideas to get you started:
 - 🌐 Visit my portfolio [Portfolio](https://singhprince.netlify.app/)
 
 - 🙋‍♂️ A little about me - <br/>
-       **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
-       **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing ith your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
+  **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
+  **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing ith your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -68,7 +62,6 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="princesingh" width="40px" />
 </p>
 
-
 <br/>
 
 <p>
@@ -77,7 +70,6 @@ Here are some ideas to get you started:
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhprince03&show_icons=true&locale=en" alt="singhprince03" /></p>
 </p>
 <br/>
-
 
 <p align="right"><img align="right" src="https://github.com/singhprince03/singhprince03/blob/main/images/pixeltrue-web-development-1.png" alt="singhprince03" width="300px"/></p><br/>
 <br/><br/><br/>
