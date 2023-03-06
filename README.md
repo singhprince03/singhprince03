@@ -30,20 +30,20 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 ## 🌱 I'm currently learning
 
--**JavaScript, MongoDb, Express, React, NodeJs**
+- **JavaScript, MongoDb, Express, React, NodeJs**
 
 ## 📫 How to reach me
 
--**princek172@gmail.com**
+- **princek172@gmail.com**
 
-- ## 🌐 Visit my portfolio
+## 🌐 Visit my portfolio
 
-  -[Portfolio](https://singhprince.netlify.app/)
+- [Portfolio](https://singhprince.netlify.app/)
 
-- ## 🙋‍♂️ A little about me - <br/>
+## 🙋‍♂️ A little about me - <br/>
 
-  **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
-  **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing ith your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
+- **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
+- **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing ith your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
