@@ -51,20 +51,20 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-css3-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-css3-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-javascript-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-mongodb-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-react-native-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-css3-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-javascript-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-mongodb-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-react-native-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-redux-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-redux-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-material-ui-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-material-ui-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="princesingh" width="40px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="princesingh" width="40px" />
 </p>
 <p>
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/icons8-visual-studio-code-2019-48.png" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-visual-studio-code-2019-48.png" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="princesingh" width="40px" />
 </p>
 
@@ -79,12 +79,12 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p align="right"><img align="right" src="https://github.com/singhprince03/singhprince03/blob/main/pixeltrue-web-development-1.png" alt="singhprince03" width="300px"/></p><br/>
+<p align="right"><img align="right" src="https://github.com/singhprince03/singhprince03/blob/main/images/pixeltrue-web-development-1.png" alt="singhprince03" width="300px"/></p><br/>
 <br/><br/><br/>
 <h3 align="left">Get Connected:</h3>
-<a href="https://twitter.com/singh_prince30" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/icons8-twitter.gif" alt="princesingh" width="25px" /></a>
-<a href="https://linkedin.com/in/singhprince30" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/icons8-linkedin-2.gif" alt="princesingh" width="25px" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqLHZLdHcsNppxDXDkrCGlnkVcMgzPBQPGwFHgkBjmSLBTPBzZzQLCfWpLfknGHsWDTLV" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/icons8-gmail-logo.gif" alt="princesingh" width="25px" /></a>
-<a href="https://instagram.com/_prinz03_" target="blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/icons8-instagram.gif" alt="princesingh" width="25px" /></a>
+<a href="https://twitter.com/singh_prince30" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-twitter.gif" alt="princesingh" width="25px" /></a>
+<a href="https://linkedin.com/in/singhprince30" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-linkedin-2.gif" alt="princesingh" width="25px" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqLHZLdHcsNppxDXDkrCGlnkVcMgzPBQPGwFHgkBjmSLBTPBzZzQLCfWpLfknGHsWDTLV" target="_blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-gmail-logo.gif" alt="princesingh" width="25px" /></a>
+<a href="https://instagram.com/_prinz03_" target="blank"><img align="left" src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-instagram.gif" alt="princesingh" width="25px" /></a>
 <br /><br />
 <h3 align="center">...</h3>
