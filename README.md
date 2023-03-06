@@ -25,7 +25,7 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 ## 🔭 I'm currently working on
 
--[Projects...](https://github.com/singhprince03/projects)
+- [Projects...](https://github.com/singhprince03/projects)
 
 ## 🌱 I'm currently learning
 
