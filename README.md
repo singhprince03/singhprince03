@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhprince03" alt="singhprince03" /></a> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singprince03&" alt="singprince03" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhprince03&" alt="singhprince03" /></p>
 
 
 
