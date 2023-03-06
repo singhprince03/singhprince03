@@ -24,17 +24,24 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhprince03" alt="singhprince03" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhprince03&" alt="singhprince03" /></p>
 
-- 🔭 I’m currently working on **Projects...**
+## 🔭 I'm currently working on
 
-- 👨‍💻 All of my projects are available at [here.](https://github.com/singhprince03/projects)
+-[Projects...](https://github.com/singhprince03/projects)
 
-- 💬 Ask me about **JavaScript, MongoDb, Express, React, NodeJs**
+## 🌱 I'm currently learning
 
-- 📫 How to reach me **princek172@gmail.com**
+-**JavaScript, MongoDb, Express, React, NodeJs**
 
-- 🌐 Visit my portfolio [Portfolio](https://singhprince.netlify.app/)
+## 📫 How to reach me
 
-- 🙋‍♂️ A little about me - <br/>
+-**princek172@gmail.com**
+
+- ## 🌐 Visit my portfolio
+
+  -[Portfolio](https://singhprince.netlify.app/)
+
+- ## 🙋‍♂️ A little about me - <br/>
+
   **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
   **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing ith your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
 
@@ -42,7 +49,8 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+## 💼 Technical Skills
+
 <p>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="princesingh" width="40px" />
@@ -63,6 +71,8 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 </p>
 
 <br/>
+
+## 📈 GitHub Stats
 
 <p>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhprince03&show_icons=true&locale=en&layout=compact" alt="singhprince03" /></p>
