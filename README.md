@@ -56,15 +56,15 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-redux-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-redux-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-material-ui-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-material-ui-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="princesingh" width="40px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="princesingh" width="40px" />
 </p>
 <p>
-  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-visual-studio-code-2019-48.png" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-visual-studio-code-2019-48.png" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="princesingh" width="40px" />
 </p>
 
