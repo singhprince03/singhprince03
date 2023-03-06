@@ -50,21 +50,21 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-css3-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-css3-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-javascript-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-mongodb-48.png" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-react-native-48.png" alt="princesingh" width="40px" />
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="princesingh" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="princesingh" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="princesingh" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="princesingh" width="40px" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-redux-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-redux-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="princesingh" width="40px" />
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-material-ui-48.png" alt="princesingh" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-material-ui-48.png" alt="princesingh" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="princesingh" width="40px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="princesingh" width="40px" />
 </p>
 <p>
-  <img src="https://github.com/singhprince03/singhprince03/blob/main/images/icons8-visual-studio-code-2019-48.png" width="40px" />
+  <img src="https://github.com/singhprince03/singhprince03/main/images/icons8-visual-studio-code-2019-48.png" width="40px" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="princesingh" width="40px" />
 </p>
 
