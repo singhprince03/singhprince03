@@ -26,11 +26,19 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 ## 🔭 I'm currently working on
 
-- [Projects...](https://github.com/singhprince03/projects)
+- [Personal Projects](https://github.com/singhprince03/projects)
 
 ## 🌱 I'm currently learning
 
+- **Next JS**
+
+## 💬 Ask me about
+
 - **JavaScript, MongoDb, Express, React, NodeJs**
+
+## 📄 Know about my experiences
+
+- [Resume](https://tinyurl.com/c3ch3vpw)
 
 ## 📫 How to reach me
 
@@ -38,9 +46,9 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
 
 ## 🌐 Visit my portfolio
 
-- [Portfolio](https://singhprince.netlify.app/)
+- [Portfolio](https://p-singh.vercel.app)
 
-## 🙋‍♂️ A little about me - <br/>
+## 🙋‍♂️ A little about me <br/>
 
 - **Love to travel and explore. It refreshes my mind, body, anxiety, stress and keeps me active all the time. While exploring, keeping all the moments as memory in the camera, and this is how you became a photographer also. And I enjoying the journey than the destination**<br/>
 - **Apart from this some times I do graphics designing stuff like Digital artwork, Typography posters, Illustration, Banners and playing videogames, the games are getting much more interesting when you colaboratly playing with your friends.Feel free to get connected and do not forget to checkout my graphic related works.**
